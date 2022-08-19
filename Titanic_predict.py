@@ -1,6 +1,3 @@
-from cProfile import label
-from cmath import nan
-import re
 import pandas as pd
 import numpy as np
 import seaborn as sns 
